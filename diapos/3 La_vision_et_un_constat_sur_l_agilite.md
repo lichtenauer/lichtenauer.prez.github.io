@@ -12,7 +12,7 @@ Mise en place de cérémonies Agile
 
 ----
 
-### Création d'un moment récurrent pour le transfert de compétence
+### Création d'un moment récurrent de partage
 
 - Atelier hebdomadaire 
   - pour transférer la compétence d'un maintenicien vers l'équipe
