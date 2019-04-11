@@ -23,6 +23,8 @@ Tendre progressivement vers une organisation facilitant le travail en équipe su
 - 3 semaines de réalisation avec un engagement
 - 1 semaine de consolidation pour l'informatique et pour le métier 
 #### --> cette expérimentation se poursuit...
+
+
 ----
 
 ### Des cérémonies Scrum pour rythmer le travail de ces itérations
